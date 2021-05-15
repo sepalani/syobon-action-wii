@@ -1,5 +1,7 @@
 #include "DxLib-wii.h"
 
+#include <math.h>
+
 //#ifndef IS_EMU
 int x_offset = 80; // 80 + 480 + 80 = 640
 int y_offset = 30; // 30 + 420 + 30 = 480
